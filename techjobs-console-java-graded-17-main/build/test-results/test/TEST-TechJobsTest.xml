@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TechJobsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-23T03:59:38" hostname="Johnnys-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="testPrintJobs" classname="TechJobsTest" time="0.01"/>
+  <testcase name="testCaseInsensitiveSearch" classname="TechJobsTest" time="0.001"/>
+  <testcase name="testPrintJobsNoResults" classname="TechJobsTest" time="0.001"/>
+  <testcase name="testFindByValue" classname="TechJobsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
